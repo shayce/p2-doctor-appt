@@ -8,6 +8,7 @@ import { TreyscomponentComponent } from './treyscomponent/treyscomponent.compone
 import { TreysComponentComponent } from './treys-component/treys-component.component';
 
 import { KamisComponent } from './kamis/kamis.component';
+import { TonyComponentComponent } from './tony-component/tony-component.component';
 
 
 
@@ -18,7 +19,8 @@ import { KamisComponent } from './kamis/kamis.component';
     TreyscomponentComponent,
     TreysComponentComponent,
 
-    KamisComponent
+    KamisComponent,
+      TonyComponentComponent
 
   ],
   imports: [
