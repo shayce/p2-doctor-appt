@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { JosephsComponentComponent } from './josephs-component/josephs-component.component';
 import { TreyscomponentComponent } from './treyscomponent/treyscomponent.component';
 import { TreysComponentComponent } from './treys-component/treys-component.component';
+import { TerrenceComponentComponent } from './terrence-component/terrence-component.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     JosephsComponentComponent,
     TreyscomponentComponent,
-    TreysComponentComponent
+    TreysComponentComponent,
+    TerrenceComponentComponent
   ],
   imports: [
     BrowserModule,
